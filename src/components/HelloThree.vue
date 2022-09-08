@@ -26,6 +26,7 @@ export default {
     );
     console.log('-------相机');
     console.log(camera);
+    console.log(camera);
 
     const renderer = new THREE.WebGLRenderer();
     console.log('-------渲染器');
