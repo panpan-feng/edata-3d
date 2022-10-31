@@ -1,5 +1,5 @@
 {
-  "name": "edata-2d",
+  "name": "edata-3d",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "core-js": "^3.6.5",
+    "normalize.css": "^8.0.1",
     "three": "^0.144.0",
     "vue": "^2.6.11",
     "vue-axios": "^3.4.1"
